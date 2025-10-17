@@ -13,6 +13,7 @@ export const hints = [
     id: "location3",
     hint: "To get your next clue, head to the location and enter the name of whose birthday is being celebrated",
     answer: "Gloria Steinem",
+    isFinalHint: true,
   },
   {
     id: "location4",
@@ -31,19 +32,14 @@ export const hints = [
   },
   {
     id: "location7",
-    hint: "Head to the location TBD",
+    hint: "Head to the location and enter in the name of the cafe in the ticketing area.",
     answer: "1",
   },
   {
     id: "location8",
     hint: "To get your next clue, head to the location and enter the 3 letter name of the bar nextdoor",
-    answer: "KGB",
+    answer: "Joe Coffee Company",
   },
-  {
-    id: "location9",
-    congrats: "TBD",    
-  },
-
 ];
 
 export const entryAnimation = {
