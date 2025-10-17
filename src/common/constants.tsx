@@ -33,7 +33,7 @@ export const hints = [
   {
     id: "location7",
     hint: "Head to the location and enter in the name of the cafe in the ticketing area.",
-    answer: "1",
+    answer: "Joe Coffee Company",
   },
   {
     id: "location8",
