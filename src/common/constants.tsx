@@ -38,7 +38,7 @@ export const hints = [
   {
     id: "location8",
     hint: "To get your next clue, head to the location and enter the 3 letter name of the bar nextdoor",
-    answer: "Joe Coffee Company",
+    answer: "KGB",
   },
 ];
 
